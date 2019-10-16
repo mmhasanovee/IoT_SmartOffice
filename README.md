@@ -7,7 +7,7 @@ A smart office system features IoT devices. Built by Cisco Packet Tracer.
 
 ## Demo
 
-* [YouTube Link](https://www.youtube.com/watch?v=ODyQ2EmaXF4&t=323s)
+* [YouTube Link](https://www.youtube.com/watch?v=ODyQ2EmaXF4)
 
 
 ## Requirements
