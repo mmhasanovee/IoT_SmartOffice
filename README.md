@@ -38,7 +38,5 @@ Fan, light, Window, Garage, Door, Battery, Siren, Solar panel, Appliance, Portab
 
 
 ## License
-
-``` 
-
-```
+MIT License
+Copyright (c) 2019 Md Mehedi Hasan
